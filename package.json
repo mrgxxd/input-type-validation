@@ -1,0 +1,11 @@
+{
+  "name": "input-type-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Mr.Gxxd",
+  "license": "ISC"
+}
